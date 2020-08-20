@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "BeardedTheme Black & Gold",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.autofetch": true,
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "fira code",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": false,
+    "editor.fontSize": 13,
+    "window.titleSeparator": " | ",
+    "window.autoDetectColorScheme": false,
+    "window.zoomLevel": -0.7
+}
